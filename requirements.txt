@@ -1,4 +1,4 @@
 streamlit
+altair>=5
 pandas
 numpy
-pip show streamlit altair
